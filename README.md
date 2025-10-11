@@ -136,7 +136,7 @@ uvicorn app:app --reload
 
 | Team Member              | Role                                       | Responsibilities                                                                                                                                                            |
 | ------------------------ | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AI Software Engineer** | AI Development & Backend Integration       | Designs and builds AI logic using Python; integrates model functions for summarization and quiz generation; ensures efficient communication between backend and AI modules. |
+| **Daud Abdulrahman** | AI Development & Backend Integration       | Designs and builds AI logic using Python; integrates model functions for summarization and quiz generation; ensures efficient communication between backend and AI modules. |
 | **Raji Faruq**           | Full-Stack Developer                       | Implements and maintains frontend and backend components; manages UI and API integration; collaborates on MongoDB schema design.                                            |
 | **Chinemerem Nelson**    | Full-Stack Developer                       | Focuses on backend APIs, routing, and database management; supports system optimization and testing.                                                                        |
 | **Abdulhammed Toibat**   | Full-Stack Developer & Project Coordinator | Contributes to development on both frontend and backend; oversees coordination, documentation, and workflow consistency.                                                    |
